@@ -21,3 +21,4 @@ Using a tolerance of Ea = 10^-4, 10^-6 and 10^-8, with a maximum number of itera
 Incooperate the final root estimate, the final error estimate and the number of iterations taken to find each root.
 
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/mrwtrade?locale.x=en_GB)
